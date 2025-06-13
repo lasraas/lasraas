@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Rasaq Lasisi<br>I'm currently learning more about Software Development, Data Engineering and DevOPs.<br>I am working into exploring other tech space.<br>I am available for any tech challenges 
+My name is Rasaq Lasisi<br>I'm an IT Generalist, a Cybersecurity Pro, a Software Development Enthusiast, an AI/ML Engineer and a Cloud Engineer .<br>I am working into exploring other tech space.<br>I am available for any tech challenges 
 
 
 ## 🌐 Socials:
